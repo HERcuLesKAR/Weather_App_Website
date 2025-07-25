@@ -4,7 +4,7 @@ A simple weather forecasting web app that allows users to check the weather by e
 
 ### 🌍 Demo
 Check out the live demo of the weather app here:  
-[Live Demo]([http://your-live-demo-link.com](https://herculeskar.github.io/Weather_App_Website/))  
+[Live Demo]([(https://herculeskar.github.io/Weather_App_Website/)])  
 📌 *Try searching for different cities like "New York", "London", or "Tokyo".*
 
 ### 🚀 Features
