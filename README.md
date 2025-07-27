@@ -47,10 +47,6 @@ To run this project locally on your machine, follow these steps:
 
 ![Weather App](screenshots/weather-app-main.png)
 
-#### 2. Error Message for Invalid City
-
-![Error Message](screenshots/weather-error.png)
-
 ### 🔌 API Reference
 This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch the current weather details. Make sure to get your own API key from OpenWeatherMap.
 
