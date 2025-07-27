@@ -45,7 +45,8 @@ To run this project locally on your machine, follow these steps:
 
 #### 1. Weather App Main Screen
 
-![Weather App](screenshots/weather-app-main.png)
+<img width="466" height="571" alt="Screenshot (491)" src="https://github.com/user-attachments/assets/631a7969-f12f-42f9-aa33-b20a92ad3eff" />
+
 
 ### 🔌 API Reference
 This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to fetch the current weather details. Make sure to get your own API key from OpenWeatherMap.
