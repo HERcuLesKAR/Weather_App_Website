@@ -16,6 +16,7 @@ Check out the live demo of the weather app here:
 - ❌ Error handling for invalid city names.
 
 ### 🛠️ Technologies Used
+
 - **HTML**: Structure of the weather app.
 - **CSS**: Styling and layout of the website.
 - **JavaScript**: Fetching weather data using OpenWeatherMap API and manipulating DOM to display the results.
