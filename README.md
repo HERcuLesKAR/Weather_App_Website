@@ -1,4 +1,3 @@
-
 # 🌦️ Weather Website 🌤️
 
 A simple weather forecasting web app that allows users to check the weather by entering the name of a city. The app fetches weather data from the [OpenWeatherMap API](https://openweathermap.org/api) and displays the temperature, humidity, and wind speed along with relevant weather icons.
